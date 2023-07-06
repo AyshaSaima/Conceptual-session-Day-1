@@ -60,3 +60,33 @@
     width: 100px;
 
 }
+.sec1{
+      font-weight: 1000;
+      
+}
+.smdiv{
+    padding-left: 600px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 4px solid rgb(133, 119, 119);
+    
+    /* position: absolute; */
+    
+}
+.pic2{
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 300px;
+    width: 300px;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    padding-left: 200px;
+    
+}
+.smdiv2{
+    display: flex;
+}
+.sec3{
+    padding-top: 220px;
+    padding-left: 200px;
+}
